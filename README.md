@@ -24,3 +24,8 @@ Komplessionsverfahren, welche heute noch genutzt werden. Dazu schrieben wir konk
 
 Als letztes wurde gefragt wieso denn Datenkompression so wichtig sei insbedondere bei Image-Backups. Hierzu sei gesagt, dass
 Kompremierte Dateien nach zusammenfassung wieder entkompremmiert werden müssten. Das braucht Zeit. Diese zeit spielt hier aber weniger eine Rolle als die vergleinerung von Dateien. Insbesondere bei backups, welche auch ziemlich gross werden können. Demnach bei Image-Backups sind die Vorteile einer Kompression viel wichtiger als die Nachteile.
+
+
+19.September.2023
+## Prüfung wie auch weiterübung von Backupvorgehen.
+[Backup](backup.md)
