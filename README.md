@@ -29,3 +29,13 @@ Kompremierte Dateien nach zusammenfassung wieder entkompremmiert werden müssten
 19.September.2023
 ## Prüfung wie auch weiterübung von Backupvorgehen.
 [Backup](backup.md)
+
+
+26.September.2023
+
+[Faktor-Authentisierung](Faktor-Authentisierung.md)
+
+[Authentisierung-Authentifizierung-Autorisierung](Authentisierung-Authentifizierung-Autorisierung.md)
+
+Passwortmanager:
+![Keypass.png](https://github.com/MaxHD00/w231-doku/assets/31143468/3a883b93-6d95-47fa-b41c-7711f9098a89)
