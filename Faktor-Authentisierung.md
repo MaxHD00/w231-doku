@@ -1,6 +1,6 @@
 
 
-##Faktor-Authentisierung
+## Faktor-Authentisierung
 Eine Faktor-Authentisierung soll dafür sorgen, dass es mehrere Möglichkeiten zur anmeldung erfolgen müssen.
 Meldet sich User X also bei X.com an, so muss reichen Email/Username und Passwort nicht mehr.
 Es muss eine weitere Authentisierung durchgeführt werden. 

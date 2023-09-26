@@ -39,6 +39,7 @@ Kompremierte Dateien nach zusammenfassung wieder entkompremmiert werden müssten
 
 Passwortmanager:
 
-![Keypass Desktop](https://github.com/MaxHD00/w231-doku/assets/31143468/3a883b93-6d95-47fa-b41c-7711f9098a89)
-
-![keypass Handy](https://github.com/MaxHD00/w231-doku/assets/31143468/9e1de4ec-24ba-48aa-80a1-fbca71688c0a)
+Desktop:
+![Keypass Desktop](https://github.com/MaxHD00/w231-doku/assets/31143468/087a955e-aaed-4e8a-8ec7-a29d7d8671dd)
+Handy:
+![keypass Handy](https://github.com/MaxHD00/w231-doku/assets/31143468/a6bc4792-248f-44f0-8769-d27d2d7fd103)
