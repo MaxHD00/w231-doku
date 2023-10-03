@@ -50,3 +50,12 @@ Handy:
 
 
 ![Keypass Handy](https://github.com/MaxHD00/w231-doku/assets/31143468/a6bc4792-248f-44f0-8769-d27d2d7fd103)
+
+3.Oktober.2023
+Verschlüsselungsmethoden wurden behandelt.
+Cäsar methode:
+Buchstaben werden um x geshiftet.
+Hallo -> Code: 3->  -> Kdqqr
+Vigenere methode:
+Buchstaben werden zu einem zeichencode addiert.
+Hallo -> Code: 2345 -> Jdrsq
