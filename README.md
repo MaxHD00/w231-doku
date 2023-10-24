@@ -27,7 +27,7 @@ Kompremierte Dateien nach zusammenfassung wieder entkompremmiert werden müssten
 
 
 19.September.2023
-## Prüfung wie auch weiterübung von Backupvorgehen.
+## Prüfung wie auch weiterübung von Backupvorgehen
 [Backup](backup.md)
 
 
@@ -52,10 +52,24 @@ Handy:
 ![Keypass Handy](https://github.com/MaxHD00/w231-doku/assets/31143468/a6bc4792-248f-44f0-8769-d27d2d7fd103)
 
 3.Oktober.2023
-Verschlüsselungsmethoden wurden behandelt.
+## Verschlüsselungsmethoden
 Cäsar methode:
 Buchstaben werden um x geshiftet.
 Hallo -> Code: 3->  -> Kdqqr
 Vigenere methode:
 Buchstaben werden zu einem zeichencode addiert.
 Hallo -> Code: 2345 -> Jdrsq
+
+
+24.Oktober.2023
+## Problematik von Datenlöschungen
+Jede Datei welche gelöscht wird, wird meist nur gelöscht wenn man diese Datei etwa
+nicht mehr benötigt oder diese Datei mehrmals Existiert.
+Aber vor allem beim zweiten herscht das Problem, dass man vertrauen muss, dass
+die andere Kopie funktionsfähig ist oder überhaupt existiert.
+Andererseits kann auch eine starke unübersichtlichkeit entstehen, sollten gewisse Daten
+mehrmals existieren. Vor allem wenn manche daten überholt wurden und nicht mehr auf dem
+Aktuellen Stand sind. Es kann auch passieren, dass wir Daten löschen, weil wir denken wir benötigen es nicht mehr.
+Und dann noch 3 Monate später ärgert man sich aufgrund des Löschens wohl doch noch so unwichten Daten.
+
+[Impressum-Disclaimer-AGB](Impressum-Disclaimer-AGB.md)
