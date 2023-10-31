@@ -73,3 +73,8 @@ Aktuellen Stand sind. Es kann auch passieren, dass wir Daten löschen, weil wir 
 Und dann noch 3 Monate später ärgert man sich aufgrund des Löschens wohl doch noch so unwichten Daten.
 
 [Impressum-Disclaimer-AGB](Impressum-Disclaimer-AGB.md)
+
+
+31.Oktober.2023
+## Lizenzmodelle
+[Lizenzmodelle](Lizenzmodelle.md)
