@@ -6,25 +6,25 @@ Diese Doku widmet sich dem Fach Datenschutz und Sicherheit, welches hiermit Doku
 --------------------------------------
 Inhaltsverzeichnis
 
-[05.9.23 | Allgemeinnutzung Git](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+[05.9.23 | Allgemeinnutzung Git](https://github.com/MaxHD00/w231-doku/tree/main#allgemeinnutzung-git)
 
-[12.9.23 | Backups](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+[12.9.23 | Backups](https://github.com/MaxHD00/w231-doku/tree/main#backups)
 
-[12.9.23 | Datensicherungsziele, Datenkompression...](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+[12.9.23 | Datensicherungsziele, Datenkompression...](https://github.com/MaxHD00/w231-doku/tree/main#datensicherungsziele-datenkompression-mit-den-unterthemen)
 
-[19.9.23 | Prüfung & Backupvorgehen](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+[19.9.23 | Prüfung & Backupvorgehen](https://github.com/MaxHD00/w231-doku/tree/main#pr%C3%BCfung-wie-auch-weiter%C3%BCbung-von-backupvorgehen)
 
-[26.9.23 | Faktor-Auth., Authentisierung und co.](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+[26.9.23 | Faktor-Auth., Authentisierung und co.](https://github.com/MaxHD00/w231-doku/tree/main#faktor-auth-authentisierung-authentifizierung-und-autorisierung)
 
-[26.9.23 | Passwortmanager](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+[26.9.23 | Passwortmanager](https://github.com/MaxHD00/w231-doku/tree/main#passwortmanager)
 
-[03.10.23 | Verschlüsselungsmethoden](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+[03.10.23 | Verschlüsselungsmethoden](https://github.com/MaxHD00/w231-doku/tree/main#verschl%C3%BCsselungsmethoden)
 
-[24.10.23 | Problematik von Datenlöschungen](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+[24.10.23 | Problematik von Datenlöschungen](https://github.com/MaxHD00/w231-doku/tree/main#problematik-von-datenl%C3%B6schungen)
 
-[31.10.23 | Lizenzmodelle](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+[31.10.23 | Lizenzmodelle](https://github.com/MaxHD00/w231-doku/tree/main#lizenzmodelle)
 
-[07.10.23 | Abschluss](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+[07.10.23 | Abschluss](https://github.com/MaxHD00/w231-doku/tree/main#abschluss)
 
 --------------------------------------
 
@@ -32,7 +32,7 @@ Inhaltsverzeichnis
 
 5.September.2023
 
-### Allgemeinnutzung Git:
+### Allgemeinnutzung Git
 hierzu sind die Grundbefehle git <push/pull/add/commit> wichtig.
 Zugleich das lesen von Datenschutzgesetzen der DSG.
 
@@ -46,7 +46,7 @@ Spiegelung einer Festplatte(Vollsicherung) sowie inkrementelle oder differenziel
 
 
 
-### Datensicherungsziele, Datenkompression mit den Unterthemen:
+### Datensicherungsziele, Datenkompression mit den Unterthemen
 
 Geräte, welche als Backup-Ziel verwendet werden. Dazu schrieben wir die üblichen Speichenmedien wie die Optischen(CD,DVD),
 die Magnetischen(HDD, Sicherungsbänder) oder auch weitere wie Flash(USB) oder Cloudspeicher.
