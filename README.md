@@ -24,20 +24,20 @@ Inhaltsverzeichnis
 
 [31.10.23 | Lizenzmodelle](https://github.com/MaxHD00/w231-doku/tree/main#lizenzmodelle)
 
-[07.10.23 | Abschluss](https://github.com/MaxHD00/w231-doku/tree/main#abschluss)
+[07.11.23 | Abschluss](https://github.com/MaxHD00/w231-doku/tree/main#abschluss)
 
 --------------------------------------
 
 
 
-5.September.2023
+_5 September 2023_
 
 ### Allgemeinnutzung Git
 hierzu sind die Grundbefehle git <push/pull/add/commit> wichtig.
 Zugleich das lesen von Datenschutzgesetzen der DSG.
 
 --------------------------------------
-12.September.2023
+_12 September 2023_
 
 ### Backups
 
@@ -57,13 +57,13 @@ Als letztes wurde gefragt wieso denn Datenkompression so wichtig sei insbedonder
 Kompremierte Dateien nach zusammenfassung wieder entkompremmiert werden müssten. Das braucht Zeit. Diese zeit spielt hier aber weniger eine Rolle als die vergleinerung von Dateien. Insbesondere bei backups, welche auch ziemlich gross werden können. Demnach bei Image-Backups sind die Vorteile einer Kompression viel wichtiger als die Nachteile.
 
 --------------------------------------
-19.September.2023
+_19 September 2023_
 ### Prüfung wie auch weiterübung von Backupvorgehen
 [Backup](backup.md)
 
 
 --------------------------------------
-26.September.2023
+_26 September 2023_
 ### Faktor-Auth., Authentisierung, Authentifizierung und Autorisierung
 
 [Faktor-Authentisierung](Faktor-Authentisierung.md)
@@ -86,7 +86,7 @@ Handy:
 ![Keypass Handy](https://github.com/MaxHD00/w231-doku/assets/31143468/a6bc4792-248f-44f0-8769-d27d2d7fd103)
 
 --------------------------------------
-3.Oktober.2023
+_3 Oktober 2023_
 ### Verschlüsselungsmethoden
 Cäsar methode:
 Buchstaben werden um x geshiftet.
@@ -96,7 +96,7 @@ Buchstaben werden zu einem zeichencode addiert.
 Hallo -> Code: 2345 -> Jdrsq
 
 --------------------------------------
-24.Oktober.2023
+_24 Oktober 2023_
 ### Problematik von Datenlöschungen
 Jede Datei welche gelöscht wird, wird meist nur gelöscht wenn man diese Datei etwa
 nicht mehr benötigt oder diese Datei mehrmals Existiert.
@@ -110,11 +110,11 @@ Und dann noch 3 Monate später ärgert man sich aufgrund des Löschens wohl doch
 [Impressum-Disclaimer-AGB](Impressum-Disclaimer-AGB.md)
 
 --------------------------------------
-31.Oktober.2023
+_31.Oktober.2023_
 ### Lizenzmodelle
 [Lizenzmodelle](Lizenzmodelle.md)
 
 --------------------------------------
-7.November.2023
+_7 November 2023_
 ### Abschluss
 Das Dossier wurde hier noch ein wenig korrigiert und dann abgeschlossen.
