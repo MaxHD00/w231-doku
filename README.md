@@ -1,21 +1,52 @@
 # w231-doku
 
+Diese Doku widmet sich dem Fach Datenschutz und Sicherheit, welches hiermit Dokumentiert wurde.
+
+
+--------------------------------------
+Inhaltsverzeichnis
+
+[05.9.23 | Allgemeinnutzung Git](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+
+[12.9.23 | Backups](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+
+[12.9.23 | Datensicherungsziele, Datenkompression...](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+
+[19.9.23 | Prüfung & Backupvorgehen](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+
+[26.9.23 | Faktor-Auth., Authentisierung und co.](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+
+[26.9.23 | Passwortmanager](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+
+[03.10.23 | Verschlüsselungsmethoden](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+
+[24.10.23 | Problematik von Datenlöschungen](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+
+[31.10.23 | Lizenzmodelle](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+
+[07.10.23 | Abschluss](https://github.com/MaxHD00/w231-doku/tree/main#thema-allgemeinnutzung-git)
+
+--------------------------------------
+
+
+
 5.September.2023
 
-## Thema: Allgemeinnutzung Git:
+### Allgemeinnutzung Git:
 hierzu sind die Grundbefehle git <push/pull/add/commit> wichtig.
 Zugleich das lesen von Datenschutzgesetzen der DSG.
 
+--------------------------------------
 12.September.2023
 
-## Thema: Backups
+### Backups
 
 Wie zu Sichern ist, wie oft zu Sichern ist und wo zu Sichern ist.
 Spiegelung einer Festplatte(Vollsicherung) sowie inkrementelle oder differenzielle Datensicherung.
 
 
 
-## Thema: Datensicherungsziele, Datenkompression mit den Unterthemen:
+### Datensicherungsziele, Datenkompression mit den Unterthemen:
 
 Geräte, welche als Backup-Ziel verwendet werden. Dazu schrieben wir die üblichen Speichenmedien wie die Optischen(CD,DVD),
 die Magnetischen(HDD, Sicherungsbänder) oder auch weitere wie Flash(USB) oder Cloudspeicher.
@@ -25,19 +56,22 @@ Komplessionsverfahren, welche heute noch genutzt werden. Dazu schrieben wir konk
 Als letztes wurde gefragt wieso denn Datenkompression so wichtig sei insbedondere bei Image-Backups. Hierzu sei gesagt, dass
 Kompremierte Dateien nach zusammenfassung wieder entkompremmiert werden müssten. Das braucht Zeit. Diese zeit spielt hier aber weniger eine Rolle als die vergleinerung von Dateien. Insbesondere bei backups, welche auch ziemlich gross werden können. Demnach bei Image-Backups sind die Vorteile einer Kompression viel wichtiger als die Nachteile.
 
-
+--------------------------------------
 19.September.2023
-## Prüfung wie auch weiterübung von Backupvorgehen
+### Prüfung wie auch weiterübung von Backupvorgehen
 [Backup](backup.md)
 
 
+--------------------------------------
 26.September.2023
+### Faktor-Auth., Authentisierung, Authentifizierung und Autorisierung
 
 [Faktor-Authentisierung](Faktor-Authentisierung.md)
 
 [Authentisierung-Authentifizierung-Autorisierung](Authentisierung-Authentifizierung-Autorisierung.md)
 
-Passwortmanager:
+
+### Passwortmanager
 
 
 Desktop:
@@ -51,8 +85,9 @@ Handy:
 
 ![Keypass Handy](https://github.com/MaxHD00/w231-doku/assets/31143468/a6bc4792-248f-44f0-8769-d27d2d7fd103)
 
+--------------------------------------
 3.Oktober.2023
-## Verschlüsselungsmethoden
+### Verschlüsselungsmethoden
 Cäsar methode:
 Buchstaben werden um x geshiftet.
 Hallo -> Code: 3->  -> Kdqqr
@@ -60,9 +95,9 @@ Vigenere methode:
 Buchstaben werden zu einem zeichencode addiert.
 Hallo -> Code: 2345 -> Jdrsq
 
-
+--------------------------------------
 24.Oktober.2023
-## Problematik von Datenlöschungen
+### Problematik von Datenlöschungen
 Jede Datei welche gelöscht wird, wird meist nur gelöscht wenn man diese Datei etwa
 nicht mehr benötigt oder diese Datei mehrmals Existiert.
 Aber vor allem beim zweiten herscht das Problem, dass man vertrauen muss, dass
@@ -74,7 +109,12 @@ Und dann noch 3 Monate später ärgert man sich aufgrund des Löschens wohl doch
 
 [Impressum-Disclaimer-AGB](Impressum-Disclaimer-AGB.md)
 
-
+--------------------------------------
 31.Oktober.2023
-## Lizenzmodelle
+### Lizenzmodelle
 [Lizenzmodelle](Lizenzmodelle.md)
+
+--------------------------------------
+7.November.2023
+### Abschluss
+Das Dossier wurde hier noch ein wenig korrigiert und dann abgeschlossen.
